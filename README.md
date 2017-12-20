@@ -1,1 +1,1 @@
-# Fraction-Knapsack-Algorithm-C-
+# Fraction-Knapsack-Algorithm-C++
